@@ -1,0 +1,19 @@
+{
+  "name": "incubator-chat",
+  "homepage": "https://github.com/vaadin/incubator-chat-flow",
+  "authors": [],
+  "description": "",
+  "main": "",
+  "license": "https://vaadin.com/license/cval-3.0",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "incubator-chat": "vaadin/incubator-chat#${vaadin.incubator.chat.version}"
+  }
+}

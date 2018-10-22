@@ -1,0 +1,20 @@
+*.iml
+target/
+
+.idea
+.classpath
+.project
+.settings
+rebel.xml
+
+**/bower_components/
+build-tools/bin/
+build-tools/etc/
+build-tools/lib/
+build-tools/node/
+build-tools/node_modules/
+build-tools/yarn.lock
+src/main/frontend/bower.json
+
+# Mac
+*.DS_Store
