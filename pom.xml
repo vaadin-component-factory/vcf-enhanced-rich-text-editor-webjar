@@ -13,7 +13,7 @@
     <artifactId>incubator-chat</artifactId>
     <!-- Needs to be kept manually in sync with chat version dependency
          in addon pom.xml -->
-    <version>1.0.2-SNAPSHOT</version>
+    <version>1.1.0-SNAPSHOT</version>
     <packaging>jar</packaging>
 
     <name>Vaadin Incubator Chat WebJar</name>
@@ -40,7 +40,7 @@
         <maven.clean.plugin.version>3.0.0</maven.clean.plugin.version>
         <maven.resources.plugin.version>3.0.2</maven.resources.plugin.version>
 
-        <vaadin.incubator.chat.version>1.0.2</vaadin.incubator.chat.version>
+        <vaadin.incubator.chat.version>1.1.0</vaadin.incubator.chat.version>
 
         <buildtools.directory>build-tools</buildtools.directory>
         <frontend.working.directory>src/main/frontend</frontend.working.directory>
