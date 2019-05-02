@@ -10,13 +10,13 @@
         <relativePath />
     </parent>
     <groupId>com.vaadin.webjar</groupId>
-    <artifactId>incubator-chat</artifactId>
+    <artifactId>vcf-chat</artifactId>
     <!-- Needs to be kept manually in sync with chat version dependency
          in addon pom.xml -->
-    <version>1.1.1-SNAPSHOT</version>
+    <version>1.2.0-SNAPSHOT</version>
     <packaging>jar</packaging>
 
-    <name>Vaadin Incubator Chat WebJar</name>
+    <name>VCF Chat WebJar</name>
 
     <organization>
         <name>Vaadin Ltd</name>
@@ -40,17 +40,17 @@
         <maven.clean.plugin.version>3.0.0</maven.clean.plugin.version>
         <maven.resources.plugin.version>3.0.2</maven.resources.plugin.version>
 
-        <vaadin.incubator.chat.version>1.1.1</vaadin.incubator.chat.version>
+        <vaadin.vcf.chat.version>1.1.1</vaadin.vcf.chat.version>
 
         <buildtools.directory>build-tools</buildtools.directory>
         <frontend.working.directory>src/main/frontend</frontend.working.directory>
     </properties>
 
-    <url>https://vaadin.com/components/incubator-chat</url>
+    <url>https://vaadin.com/components/chat</url>
 
     <scm>
-        <connection>scm:git:https://github.com/vaadin/incubator-chat-webjar.git</connection>
-        <developerConnection>scm:git:https://github.com/vaadin/incubator-chat-webjar.git</developerConnection>
+        <connection>scm:git:https://github.com/vaadin/vcf-chat-webjar.git</connection>
+        <developerConnection>scm:git:https://github.com/vaadin/vcf-chat-webjar.git</developerConnection>
     </scm>
 
     <licenses>
@@ -69,9 +69,9 @@
         </dependency>
 
         <dependency>
-            <groupId>com.vaadin.webjar</groupId>
-            <artifactId>incubator-avatar</artifactId>
-            <version>1.2.4</version>
+            <groupId>com.vaadin.componentfactory.webjar</groupId>
+            <artifactId>vcf-avatar</artifactId>
+            <version>1.3.0</version>
         </dependency>
 
         <dependency>
@@ -120,8 +120,8 @@
     <build>
         <resources>
             <resource>
-                <directory>src/main/frontend/bower_components/incubator-chat</directory>
-                <targetPath>META-INF/resources/webjars/incubator-chat</targetPath>
+                <directory>src/main/frontend/bower_components/vcf-chat</directory>
+                <targetPath>META-INF/resources/webjars/vcf-chat</targetPath>
             </resource>
         </resources>
 

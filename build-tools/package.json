@@ -1,6 +1,6 @@
 {
-  "name": "vaadin-incubator-chat-flow",
-  "description": "Frontend dependencies for incubator-chat-flow",
+  "name": "vcf-chat",
+  "description": "Frontend dependencies for vcf chat",
   "version": "1.0.0",
   "author": "Vaadin Ltd",
   "license": "SEE LICENSE IN https://vaadin.com/license/cval-3.0",

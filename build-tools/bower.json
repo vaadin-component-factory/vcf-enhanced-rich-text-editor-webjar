@@ -1,6 +1,6 @@
 {
-  "name": "incubator-chat",
-  "homepage": "https://github.com/vaadin/incubator-chat-flow",
+  "name": "vcf-chat",
+  "homepage": "https://github.com/vaadin-component-factor/vcf-chat-webjar",
   "authors": [],
   "description": "",
   "main": "",
@@ -14,6 +14,6 @@
     "tests"
   ],
   "dependencies": {
-    "incubator-chat": "vaadin/incubator-chat#${vaadin.incubator.chat.version}"
+    "vcf-chat": "vaadin-component-factory/vcf-chat#${vaadin.vcf.chat.version}"
   }
 }

@@ -1,1 +1,1 @@
-Webjar build of incubator chat
+Webjar build of vcf-chat
