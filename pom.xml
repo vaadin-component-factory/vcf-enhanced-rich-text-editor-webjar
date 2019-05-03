@@ -9,7 +9,8 @@
         <version>2.0.0</version>
         <relativePath />
     </parent>
-    <groupId>com.vaadin.webjar</groupId>
+
+    <groupId>com.vaadin.componentfactory.webjar</groupId>
     <artifactId>vcf-chat</artifactId>
     <!-- Needs to be kept manually in sync with chat version dependency
          in addon pom.xml -->
