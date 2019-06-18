@@ -126,8 +126,8 @@
     <build>
         <resources>
             <resource>
-                <directory>src/main/frontend/bower_components/vcf-chat</directory>
-                <targetPath>META-INF/resources/webjars/vcf-chat</targetPath>
+                <directory>src/main/frontend/bower_components/vcf-enhanced-rich-text-editor</directory>
+                <targetPath>META-INF/resources/webjars/vcf-enhanced-rich-text-editor</targetPath>
             </resource>
         </resources>
 
