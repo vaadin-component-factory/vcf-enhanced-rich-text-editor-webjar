@@ -1,6 +1,6 @@
 {
   "name": "vcf-chat",
-  "homepage": "https://github.com/vaadin-component-factor/vcf-chat-webjar",
+  "homepage": "https://github.com/vaadin-component-factor/vcf-enhanced-rich-text-editor-webjar",
   "authors": [],
   "description": "",
   "main": "",
@@ -14,6 +14,6 @@
     "tests"
   ],
   "dependencies": {
-    "vcf-chat": "vaadin-component-factory/vcf-chat#${vaadin.vcf.chat.version}"
+    "vcf-enhanced-rich-text-editor": "vaadin-component-factory/vcf-enhanced-rich-text-editor#${vaadin.vcf.enhanced.rich.text.editor.version}"
   }
 }

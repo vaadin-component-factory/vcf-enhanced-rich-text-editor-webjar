@@ -1,1 +1,1 @@
-Webjar build of vcf-chat
+Webjar build of vcf-enhanced-rich-text-editor
