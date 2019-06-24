@@ -14,7 +14,7 @@
     <artifactId>vcf-enhanced-rich-text-editor</artifactId>
     <!-- Needs to be kept manually in sync with chat version dependency
          in addon pom.xml -->
-    <version>1.0.3</version>
+    <version>1.0.4</version>
     <packaging>jar</packaging>
 
     <name>VCF Enhanced Rich Text Editor WebJar</name>
@@ -41,7 +41,7 @@
         <maven.clean.plugin.version>3.0.0</maven.clean.plugin.version>
         <maven.resources.plugin.version>3.0.2</maven.resources.plugin.version>
 
-        <vaadin.vcf.enhanced.rich.text.editor.version>1.0.3</vaadin.vcf.enhanced.rich.text.editor.version>
+        <vaadin.vcf.enhanced.rich.text.editor.version>1.0.4</vaadin.vcf.enhanced.rich.text.editor.version>
 
         <buildtools.directory>build-tools</buildtools.directory>
         <frontend.working.directory>src/main/frontend</frontend.working.directory>
